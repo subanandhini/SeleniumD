@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14924" started-at="2019-07-16T11:50:40Z" finished-at="2019-07-16T11:50:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14924" started-at="2019-07-16T11:50:40Z" finished-at="2019-07-16T11:50:55Z">
+      <class name="AutomationTesting">
+        <test-method status="PASS" signature="runner()[pri:0, instance:AutomationTesting@57fffcd7]" name="runner" duration-ms="14891" started-at="2019-07-16T11:50:40Z" finished-at="2019-07-16T11:50:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runner -->
+      </class> <!-- AutomationTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
